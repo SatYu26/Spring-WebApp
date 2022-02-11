@@ -20,4 +20,6 @@ public class HomeController {
 
         return mv;
     }
+
+    // http://localhost:8080/home?aid=1&aname=satyam&lang=python
 }
