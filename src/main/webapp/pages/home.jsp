@@ -7,6 +7,6 @@
     <title>Document</title>
   </head>
   <body>
-    Hello ${name}
+    Hello ${obj.aid} , ${obj.aname} , ${obj.lang}
   </body>
 </html>
